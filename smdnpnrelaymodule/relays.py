@@ -20,5 +20,5 @@ GPIO.output(pins, GPIO.HIGH)
 time.sleep(3)
 GPIO.output(pins, GPIO.LOW)
 
-#Cleanup
+# Cleanup
 GPIO.cleanup()
