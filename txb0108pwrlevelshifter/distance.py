@@ -1,5 +1,5 @@
 # Originally posted:
-# https://samedayrules.com/using_...
+# https://samedayrules.com/using-the-voltage-level-shifter-board/
 
 # Libraries
 import RPi.GPIO as GPIO
