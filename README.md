@@ -3,4 +3,4 @@ The code from all blog posts made by [Same Day Rules](https://samedayrules.com) 
 ## smdnpnrelaymodule
 Code from blog post [Using the Relay Module Interface Board](https://samedayrules.com/using-smd-npn-relay-board/).
 ## txb0108pwrlevelshifter
-Code from the blog post [Using the Voltage Level Shifter Board]()
+Code from the blog post [Using the Voltage Level Shifter Board](https://samedayrules.com/using-the-voltage-level-shifter-board/)
